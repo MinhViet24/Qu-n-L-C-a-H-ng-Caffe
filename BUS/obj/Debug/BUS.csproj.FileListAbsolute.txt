@@ -7,3 +7,12 @@ C:\Users\admin\Desktop\QuanLyCuaHangCaffee\BUS\bin\Debug\DTO.pdb
 C:\Users\admin\Desktop\QuanLyCuaHangCaffee\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
 C:\Users\admin\Desktop\QuanLyCuaHangCaffee\BUS\obj\Debug\BUS.dll
 C:\Users\admin\Desktop\QuanLyCuaHangCaffee\BUS\obj\Debug\BUS.pdb
+C:\Users\admin\Desktop\kIEMtHU\QuanLyCuaHangCaffee\BUS\bin\Debug\BUS.dll
+C:\Users\admin\Desktop\kIEMtHU\QuanLyCuaHangCaffee\BUS\bin\Debug\BUS.pdb
+C:\Users\admin\Desktop\kIEMtHU\QuanLyCuaHangCaffee\BUS\bin\Debug\DAO.dll
+C:\Users\admin\Desktop\kIEMtHU\QuanLyCuaHangCaffee\BUS\bin\Debug\DTO.dll
+C:\Users\admin\Desktop\kIEMtHU\QuanLyCuaHangCaffee\BUS\bin\Debug\DAO.pdb
+C:\Users\admin\Desktop\kIEMtHU\QuanLyCuaHangCaffee\BUS\bin\Debug\DTO.pdb
+C:\Users\admin\Desktop\kIEMtHU\QuanLyCuaHangCaffee\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\kIEMtHU\QuanLyCuaHangCaffee\BUS\obj\Debug\BUS.dll
+C:\Users\admin\Desktop\kIEMtHU\QuanLyCuaHangCaffee\BUS\obj\Debug\BUS.pdb

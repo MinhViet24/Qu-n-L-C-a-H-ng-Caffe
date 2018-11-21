@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\kIEMtHU\QuanLyCuaHangCaffee\QuanLyTester\obj\Debug\QuanLyTester.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\kIEMtHU\QuanLyCuaHangCaffee\QuanLyTester\bin\Debug\QuanLyTester.dll
+C:\Users\admin\Desktop\kIEMtHU\QuanLyCuaHangCaffee\QuanLyTester\bin\Debug\QuanLyTester.pdb
+C:\Users\admin\Desktop\kIEMtHU\QuanLyCuaHangCaffee\QuanLyTester\bin\Debug\BUS.dll
+C:\Users\admin\Desktop\kIEMtHU\QuanLyCuaHangCaffee\QuanLyTester\bin\Debug\DAO.dll
+C:\Users\admin\Desktop\kIEMtHU\QuanLyCuaHangCaffee\QuanLyTester\bin\Debug\Demo.exe
+C:\Users\admin\Desktop\kIEMtHU\QuanLyCuaHangCaffee\QuanLyTester\bin\Debug\DTO.dll
+C:\Users\admin\Desktop\kIEMtHU\QuanLyCuaHangCaffee\QuanLyTester\bin\Debug\Demo.pdb
+C:\Users\admin\Desktop\kIEMtHU\QuanLyCuaHangCaffee\QuanLyTester\bin\Debug\BUS.pdb
+C:\Users\admin\Desktop\kIEMtHU\QuanLyCuaHangCaffee\QuanLyTester\bin\Debug\DAO.pdb
+C:\Users\admin\Desktop\kIEMtHU\QuanLyCuaHangCaffee\QuanLyTester\bin\Debug\DTO.pdb
+C:\Users\admin\Desktop\kIEMtHU\QuanLyCuaHangCaffee\QuanLyTester\obj\Debug\QuanLyTester.dll
+C:\Users\admin\Desktop\kIEMtHU\QuanLyCuaHangCaffee\QuanLyTester\obj\Debug\QuanLyTester.pdb

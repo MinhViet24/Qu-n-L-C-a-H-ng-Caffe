@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUS", "BUS\BUS.csproj", "{1A4DB5DE-31DC-442C-A9E5-A9E073122BCD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "..\Demo\Demo.csproj", "{3C7D7FBB-277F-47FB-A83A-C7CF4F9E2031}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyTester", "QuanLyTester\QuanLyTester.csproj", "{1C38DBE5-69B5-41FC-B3D4-4476B6FB1D6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{1A4DB5DE-31DC-442C-A9E5-A9E073122BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A4DB5DE-31DC-442C-A9E5-A9E073122BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A4DB5DE-31DC-442C-A9E5-A9E073122BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C7D7FBB-277F-47FB-A83A-C7CF4F9E2031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C7D7FBB-277F-47FB-A83A-C7CF4F9E2031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C7D7FBB-277F-47FB-A83A-C7CF4F9E2031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C7D7FBB-277F-47FB-A83A-C7CF4F9E2031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C38DBE5-69B5-41FC-B3D4-4476B6FB1D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C38DBE5-69B5-41FC-B3D4-4476B6FB1D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C38DBE5-69B5-41FC-B3D4-4476B6FB1D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C38DBE5-69B5-41FC-B3D4-4476B6FB1D6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -32,11 +32,11 @@
             this.panel2 = new System.Windows.Forms.Panel();
             this.txtUserName = new System.Windows.Forms.TextBox();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.btClose = new System.Windows.Forms.Button();
             this.btLogin = new System.Windows.Forms.Button();
             this.panel3 = new System.Windows.Forms.Panel();
             this.txtPass = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
+            this.btClose = new System.Windows.Forms.Button();
             this.panel2.SuspendLayout();
             this.panel1.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -80,18 +80,9 @@
             this.panel1.Size = new System.Drawing.Size(280, 211);
             this.panel1.TabIndex = 2;
             // 
-            // btClose
-            // 
-            this.btClose.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.btClose.Location = new System.Drawing.Point(114, 161);
-            this.btClose.Name = "btClose";
-            this.btClose.Size = new System.Drawing.Size(74, 37);
-            this.btClose.TabIndex = 2;
-            this.btClose.Text = "Thoát";
-            this.btClose.UseVisualStyleBackColor = true;
-            // 
             // btLogin
             // 
+            this.btLogin.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
             this.btLogin.Location = new System.Drawing.Point(205, 161);
             this.btLogin.Name = "btLogin";
             this.btLogin.Size = new System.Drawing.Size(71, 37);
@@ -128,15 +119,28 @@
             this.label2.Text = "Mật khẩu:";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // btClose
+            // 
+            this.btClose.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.btClose.Location = new System.Drawing.Point(114, 161);
+            this.btClose.Name = "btClose";
+            this.btClose.Size = new System.Drawing.Size(74, 37);
+            this.btClose.TabIndex = 2;
+            this.btClose.Text = "Thoát";
+            this.btClose.UseVisualStyleBackColor = true;
+            this.btClose.Click += new System.EventHandler(this.btClose_Click);
+            // 
             // fLogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 238);
+            this.ControlBox = false;
             this.Controls.Add(this.panel1);
             this.Name = "fLogin";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-            this.Text = "Login";        
+            this.Text = "Login";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.fLogin_FormClosing);
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
             this.panel1.ResumeLayout(false);
@@ -152,10 +156,10 @@
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.TextBox txtUserName;
         private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.Button btClose;
         private System.Windows.Forms.Button btLogin;
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.TextBox txtPass;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Button btClose;
     }
 }

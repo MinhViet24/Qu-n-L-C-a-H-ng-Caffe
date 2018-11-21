@@ -56,6 +56,22 @@ namespace QuanLyCuaHangCaffee
             }
         }
 
+        private void btClose_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void fLogin_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            //Application.Exit();
+            //if (MessageBox.Show("Bạn muốn thoát!", "Exit", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
+            //{
+            //    Application.Exit();
+            //}
+            //else
+            //    e.Cancel = true;
+        }
+
     
     }
 }
